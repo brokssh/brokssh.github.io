@@ -20,7 +20,7 @@ This Privacy Policy explains how your game collects, uses, and discloses informa
 - For children: The app complies with COPPA; no personal data is collected from users under 13.
 
 ## Changes to This Policy
-We may update this policy periodically. Changes will be posted here with the update date at the top. Continued use after changes implies acceptance.[1]
+We may update this policy periodically. Changes will be posted here with the update date at the top. Continued use after changes implies acceptance.
 
 ## Contact Us
 For questions, email brokssh@gmail.com.
